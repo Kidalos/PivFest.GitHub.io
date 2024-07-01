@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
+#werh {
+    background-color:  rgb(0, 0, 0) ;
+}
+
+body {
+    font-family: Michroma, serif;
+    background-color: #5a3916;
+}
+
+p {
+  color:#cc7e25
+}
+
+.navbar-brand{ 
+    color:#cc7e25
+}
+.nav-link {
+    color:#cc7e25;
+}
+
+.navbar-nav .nav-link.active {
+    color:#814f15;
+
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+.carousel-inner{ display: block;}
+.navbar-toggler {
+    background-color: rgb(174, 145, 1);
+}
+
+.sidebar {
+    border-style:groove;
+    border-color:rgb(228, 130, 11);
+  
+
+}
+.cardbor{border-style: groove;}
+.card {
+
+    background-color: #885824;
+    color:#cc7e25
+}
+h5{ color:#ff8800}
+.card a {
+    text-decoration: none;
+    color:#cc7e25
+}
+
+.slide-text,
+.footer-text {
+    color: aquamarine;
+    margin: auto auto;
+}
+
+footer,
+.btn-outline-primary {
+    background-color: #e5943eb4;
+}
+.media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-anim {
+    animation: call 2s ease 0s infinite normal forwards;
+}
+
+.nh{ background-color: #cc7e25;}
+.textfoot{color: #5a3916;}
